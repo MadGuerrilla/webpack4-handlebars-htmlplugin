@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>{{title}}</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <h1>{{pageHeading}}</h1>
+            </div>
+        </div>
+        {{#if body}}
+            <div class="row">
+                <div class="col-xs-12">
+                    <p>{{body.intro}}</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="{{body.part2.leftImage.url}}" alt="{{body.part2.leftImage.alt}}">
+                </div>
+                <div class="col-md-6">
+                    <p>{{body.part2.text}}</p>
+                </div>
+            </div>
+
+        {{/if}}
+    </div>
+    {{#each scripts}}
+        <script src="{{this}}"></script>
+    {{/each}}
+</body>
+
+</html>

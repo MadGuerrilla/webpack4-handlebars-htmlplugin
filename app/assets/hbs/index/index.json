@@ -1,0 +1,15 @@
+{
+    "title": "Hello World!",
+    "pageHeading": "Hello World!",
+    "body": {
+        "intro": "Maecenas in elit quis ipsum ullamcorper pharetra at et nulla. Duis nec tempus lorem. Fusce tincidunt suscipit pretium. Aliquam sit amet justo quis orci convallis ultrices sed quis ipsum. Suspendisse ornare leo sed pellentesque iaculis. Cras ornare nec est et bibendum. Aenean metus nunc, scelerisque quis efficitur ut, accumsan at ante. Fusce vel turpis quis mauris imperdiet tempus a id lacus. Nunc consequat nunc eu neque congue faucibus. Donec ex quam, congue non suscipit id, lobortis ut nibh. Vivamus in ultrices odio. Sed vulputate lectus vitae suscipit luctus. Nulla eleifend turpis ac leo commodo, vel tincidunt diam placerat.",
+        "part2": {
+            "leftImage": {
+                "url": "https://picsum.photos/500/300/?random",
+                "alt": "image"
+            },
+            "text": "In hac habitasse platea dictumst. Curabitur pretium molestie turpis, eget laoreet ligula imperdiet ac. Vivamus vel mattis nisl. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fermentum, est quis auctor efficitur, nunc eros vestibulum eros, id rhoncus turpis metus condimentum eros. Cras in sagittis urna. Mauris cursus quam id urna consectetur tincidunt."
+        }
+    },
+    "scripts": []
+}

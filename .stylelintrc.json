@@ -1,0 +1,15 @@
+{
+    "rules": {
+        "color-hex-case": "lower",
+        "color-no-invalid-hex": true,
+        "font-family-no-duplicate-names": true,
+        "no-duplicate-selectors": true,
+        "no-empty-source": true,
+        "no-extra-semicolons": true,
+        "no-invalid-double-slash-comments": true,
+        "selector-max-empty-lines": 0,
+        "string-no-newline": true,
+        "string-quotes": "single",
+        "value-no-vendor-prefix": true
+    }
+}
